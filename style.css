@@ -1,0 +1,38 @@
+nav img{
+    width: 50px;
+}
+
+.breadcrumb {
+    padding: 10px 20px;
+    margin-bottom: 15px;
+    list-style: none;
+    background-color: #eceeef;
+    border-radius: 5px;
+}
+.alert{
+    position: relative;
+
+}
+.alert .btn-close{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 0;
+}
+
+.scrollspy-example {
+    position: relative;
+    height: 150px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+.page{
+    display: inline-block;
+}
+.dropdown{
+    display: inline-block;
+}
+footer{
+    background-color: #17a2b8;
+    color: #fff;
+}
